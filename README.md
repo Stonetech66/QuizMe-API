@@ -1,1 +1,1 @@
-A simple quiz app project built with Django Rest Framework
+A simple quiz app API project built with Django Rest Framework
